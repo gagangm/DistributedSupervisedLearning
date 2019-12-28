@@ -1,0 +1,12 @@
+  #####################################################################################################################################################
+  ## Place these adequately
+  ## <CurlyBracketStart>tabletoinclude<CurlyBracketEnd>, limit <CurlyBracketStart>lim<CurlyBracketEnd> offset <CurlyBracketStart>off<CurlyBracketEnd>
+  #####################################################################################################################################################
+  ## Population Mean & Population Standard Deviation from External Join else individual Parameters from this query itself
+
+SELECT  
+*
+FROM  
+  {TableToInclude}   
+LIMIT
+  {lim} offset {off}

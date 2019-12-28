@@ -1,0 +1,3 @@
+## To convert str to dict 
+https://stackoverflow.com/questions/988228/convert-a-string-representation-of-a-dictionary-to-a-dictionary
+
